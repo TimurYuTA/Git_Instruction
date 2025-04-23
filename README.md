@@ -188,7 +188,7 @@ ___
 
 1. [Документация на GitHub](https://docs.github.com/ru/get-started/using-git/about-git).
 2. [Документация на Git](https://git-scm.com/book/ru/v2).
-3. [LearnGitBranching](https://git-scm.com/book/ru/v2) - тренажер по Git.
+3. [LearnGitBranching](https://learngitbranching.js.org) - тренажер по Git.
 
 [⬆️ Возврат к Оглавлению](#оглавление)
 
